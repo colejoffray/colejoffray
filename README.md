@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cole Joffray</h1>
 <h3 align="center">A passionate Full-Stack Developer from sunny Florida.</h3>
 
-- 🔭 I’m currently working on **Fishventory (a full-stack inventory management application)**
+- 🔭 I’m currently working on **REACT Projects**
 
 - 🌱 I’m currently learning **React, Node, Bootstrap, Express**
 
